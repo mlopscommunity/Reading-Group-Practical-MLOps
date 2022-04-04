@@ -22,18 +22,19 @@ This is an async reading club:
 
 # Chapter Issues
 
-- #1
-- #3
-- #4
-- #5
-- #6
-- #7
-- #8
-- #9
-- #10
-- #11
-- #12
-- #13
+
+1. Introduction to MLOps #1
+2. MLOps Foundations #3 
+3. MLOps for Containers and Edge Devices
+4. Continuous Delivery for Machine Learning Models #5
+5. AutoML and KaizenML #6
+6. Monitoring and Logging #7
+7. MLOps for AWS #8
+8. MLOps for Azure #9
+9. MLOps for GCP #10
+10. Machine Learning Interoperability #11
+11. Building MLOps Command Line Tools and Microservices #12
+12. Machine Learning Engineering and MLOps Case Studies #13
 
 
 Questions? Reach us out at the #reading-group channel on [MLops Community](https://mlops.community/), or open an issue here
