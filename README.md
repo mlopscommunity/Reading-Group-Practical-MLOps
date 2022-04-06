@@ -16,7 +16,7 @@ Code: https://github.com/noahgift/github-actions-demo/tree/main/.github/workflow
 
 # Format
 
-This is an async reading club:
+This is an async first reading club:
 
 - Don't push yourself to read the entire book, select a few chapters (5 or 6) that you are really interested about
 - There's no hurry, but working through a chapter per week is a good pace
@@ -24,6 +24,7 @@ This is an async reading club:
 - Each chapter discussion serves as free forum: add questions, thoughts, ideas
 - Once you have completed the chapter, leave a comment with your learnings
 - If you want to share code, feel free to create a repository and add share the files you want to discuss to the chapter discussion
+- Sync conversations are still useful and fun! Ping us on #reading-group to see if we can schedule one!
 
 # Chapter Discussions
 
