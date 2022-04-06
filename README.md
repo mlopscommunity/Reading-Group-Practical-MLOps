@@ -12,29 +12,33 @@ Getting your models into production is the fundamental challenge of machine lear
 
 Current and aspiring machine learning engineers--or anyone familiar with data science and Python--will build a foundation in MLOps tools and methods (along with AutoML and monitoring and logging), then learn how to implement them in AWS, Microsoft Azure, and Google Cloud. The faster you deliver a machine learning system that works, the faster you can focus on the business problems you're trying to crack. This book gives you a head start.
 
+Code: https://github.com/noahgift/github-actions-demo/tree/main/.github/workflows
+
 # Format
 
 This is an async reading club:
 
-- Assign your self the issues that reffer to the chapters you want to read from the book.
-- Each issue serves as free forum: add questions, thoughts, discussions.
-- Once you have completed the chapter, unassign yourself and leave a comment with your learnings
+- Don't push yourself to read the entire book, select a few chapters (5 or 6) that you are really interested about
+- There's no hurry, but working through a chapter per week is a good pace
+- On the discussions tab, you will find a discussion for each chapter
+- Each chapter discussion serves as free forum: add questions, thoughts, ideas
+- Once you have completed the chapter, leave a comment with your learnings
+- If you want to share code, feel free to create a repository and add share the files you want to discuss to the chapter discussion
 
-# Chapter Issues
+# Chapter Discussions
 
-
-1. Introduction to MLOps #1
-2. MLOps Foundations #3 
-3. MLOps for Containers and Edge Devices
-4. Continuous Delivery for Machine Learning Models #5
-5. AutoML and KaizenML #6
-6. Monitoring and Logging #7
-7. MLOps for AWS #8
-8. MLOps for Azure #9
-9. MLOps for GCP #10
-10. Machine Learning Interoperability #11
-11. Building MLOps Command Line Tools and Microservices #12
-12. Machine Learning Engineering and MLOps Case Studies #13
+1. [Introduction to MLOps](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/15)
+2. [MLOps Foundations](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/16) 
+3. [MLOps for Containers and Edge Devices](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/17)
+4. [Continuous Delivery for Machine Learning Models](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/18)
+5. [AutoML and KaizenML](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/19)
+6. [Monitoring and Logging](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/20)
+7. [MLOps for AWS](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/21)
+8. [MLOps for Azure](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/22)
+9. [MLOps for GCP](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/23)
+10. [Machine Learning Interoperability](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/24)
+11. [Building MLOps Command Line Tools and Microservices](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/25)
+12. [Machine Learning Engineering and MLOps Case Studies](https://github.com/mlopscommunity/Reading-Group-Practical-MLOps/discussions/26)
 
 
 Questions? Reach us out at the #reading-group channel on [MLops Community](https://mlops.community/), or open an issue here
